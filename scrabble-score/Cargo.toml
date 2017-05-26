@@ -1,0 +1,7 @@
+[package]
+name = "scrabble-score"
+version = "1.0.0"
+
+[dependencies]
+phf = "0.7.21"
+phf_macros = "0.7.21"
