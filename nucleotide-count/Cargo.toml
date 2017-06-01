@@ -1,0 +1,7 @@
+[package]
+name = "nucleotide-count"
+version = "0.0.0"
+
+[dependencies]
+phf = "0.7.21"
+phf_macros = "0.7.21"
