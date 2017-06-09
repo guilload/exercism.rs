@@ -1,0 +1,7 @@
+[package]
+name = "robot-simulator"
+version = "1.0.0"
+
+[dependencies]
+enum_primitive = "0.1.1"
+num = "0.1.39"
