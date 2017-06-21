@@ -1,0 +1,6 @@
+[package]
+name = "wordy"
+version = "1.0.0"
+
+[dependencies]
+nom = "^3.1"
